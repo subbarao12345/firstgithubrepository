@@ -1,6 +1,6 @@
 package githubproject;
 
 public class github {
-  system.out.prinln("Hellow World");
-
+  System.out.println("Hellow World");
+//system.out
 }
